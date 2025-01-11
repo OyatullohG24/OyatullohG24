@@ -21,6 +21,3 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)  
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)  
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=FF2D20)  
-
-### Snake animation
-![Snake animation](https://github.com/<OyatullohG24>/<OyatullohG24>/blob/output/snake.svg)
