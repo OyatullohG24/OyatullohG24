@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/OyatullohG24/OyatullohG24/main/images/DALL·E 2025-01-11 09.25.11 - A creative and vibrant digital artwork featuring the name 'OyatullohG24' in bold, futuristic typography. The background should have an abstract, color.webp" alt="Khudoyberganov Oyatulla" />
+  <img src="https://raw.githubusercontent.com/OyatullohG24/OyatullohG24/main/images/DALL·E 2025-01-11 09.25.11 - A creative and vibrant digital artwork featuring the name 'OyatullohG24' in bold, futuristic typography. The background should have an abstract, color.webp" alt="Khudoyberganov Oyatulla" heigth="300" />
 </h1>
 
 Here are some ideas to get you started:
