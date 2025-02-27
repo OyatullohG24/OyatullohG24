@@ -1,4 +1,4 @@
-I’m **Oyatulloh**, an Php 🚀  
+I’m **Oyatulloh**, an Php Developer 🚀  
 
 📧 **Email:** khudoyberganovoyatulloh405@gmail.com  
 
